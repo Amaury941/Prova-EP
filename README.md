@@ -13,5 +13,7 @@
     # tStudent.csv
 
 # OBS:
-     ## para os algoritmos de "question_4.py" e "question_5.py" funcionarem normalmente, eles precisam de "tabelaZ.csv" e "tStudent.csv", respectivamente
+     ## para os algoritmos de "question_4.py" e "question_5.py" funcionarem normalmente, 
+     ## eles precisam de "tabelaZ.csv" e "tStudent.csv", respectivamente
+     
      ## Não há algoritmo em "question_1.py"
